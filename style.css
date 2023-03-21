@@ -178,6 +178,9 @@ header {
 .link img {
     margin-right: 4px;
 }
+#elink {
+    margin-top : 3px;
+}
 .quickreply {
     text-align: center;
     line-height: 1;
